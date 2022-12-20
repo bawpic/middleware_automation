@@ -1,7 +1,0 @@
-argument_specs:
-    main:
-        options:
-            wildfly_migration_environment_props:
-                default: "templates/environment.properties.j2"
-                description: "Template to configure the migration tool"
-                type: "str"
